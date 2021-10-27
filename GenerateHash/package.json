@@ -1,0 +1,14 @@
+{
+  "name": "generate-hash",
+  "version": "0.0.0",
+  "description": "GenerateHash",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.3.0"
+  }
+}
