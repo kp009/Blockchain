@@ -1,15 +1,21 @@
 ## GenerateHash
 
-#### 1. Use mkdir GenerateHash to create a directory
+### To run this project 
 
-#### 2. cd GenerateHash
+ 1. Use mkdir GenerateHash to create a directory
+```bash
+   cd GenerateHash
+```
+ 2. Make sure that node.js is installed if not run the command: 
+```bash
+    npm install node.js  
+```
+ 3. Install Crypto.js module in the project and create generateHash function in block.js 
+```bash
+    npm install crypto-js
+```
 
-#### 3. Make sure that node.js is installed if not run the command: npm install node.js
-
-#### 4. Install Crypto.js module in the project and create generateHash function in block.js 
-
-#### 5. Run: node app.js to run the code
-
-
-
-
+ 4. To run the code
+```bash
+     node app.js
+```
